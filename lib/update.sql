@@ -1,0 +1,1 @@
+Update characters Set species = "Martian" Where id = 8;
